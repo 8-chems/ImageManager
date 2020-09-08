@@ -1,3 +1,25 @@
+## About the application
+This application is a client-server image managing tool. It uses VueJS, Vuetify, Bootsrapp for styling, animating, the frontend, and Laravel framework to manage data access. In this application, every user can create an account, log in, upload/ delete images, and add/edit comments. 
+
+### Home page
+![search query form](git/capt1.png)
+
+### Login Menu
+![search query form](git/capt2.png)
+
+### Login Form
+![search query form](git/capt3.png)
+
+### Subscribtion Form 1
+![search query form](git/capt4.png)
+### Subscribtion Form 2
+![search query form](git/capt5.png)
+### Image Upload Page
+ ![search query form](git/capt7.png)
+### About Page
+![search query form](git/capt6.png)
+
+
 
 ## About Laravel
 
