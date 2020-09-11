@@ -10,9 +10,9 @@ This application is a client-server image managing tool. It uses VueJS, Vuetify,
 ### Login Form
 ![search query form](git/capt3.png)
 
-### Subscribtion Form 1
+### Subscription Form 1
 ![search query form](git/capt4.png)
-### Subscribtion Form 2
+### Subscription Form 2
 ![search query form](git/capt5.png)
 ### Image Upload Page
  ![search query form](git/capt7.png)
